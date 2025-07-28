@@ -66,7 +66,7 @@ const Index = () => {
       author: 'CookingPro',
       views: '45K',
       duration: '8:15',
-      thumbnail: '/img/af9c21ae-cf94-4ed1-9635-5721204810fe.jpg',
+      thumbnail: '/img/d365b4c9-dda0-43e1-8562-1b4df632a370.jpg',
       uploadTime: '6 часов назад'
     },
     {
@@ -75,7 +75,7 @@ const Index = () => {
       author: 'MusicVibes',
       views: '67K',
       duration: '20:45',
-      thumbnail: '/img/444f629f-7b7c-464b-b671-afc871241e9a.jpg',
+      thumbnail: '/img/8e5f4f63-94bd-4483-9a7f-4d6d830323f0.jpg',
       uploadTime: '1 день назад'
     }
   ];
@@ -87,7 +87,7 @@ const Index = () => {
       author: 'TechGuru',
       views: '2.3M',
       duration: '5:42',
-      thumbnail: '/img/af9c21ae-cf94-4ed1-9635-5721204810fe.jpg',
+      thumbnail: '/img/8e5f4f63-94bd-4483-9a7f-4d6d830323f0.jpg',
       uploadTime: '2 недели назад'
     },
     {
@@ -96,7 +96,7 @@ const Index = () => {
       author: 'GameMaster',
       views: '1.8M',
       duration: '18:30',
-      thumbnail: '/img/444f629f-7b7c-464b-b671-afc871241e9a.jpg',
+      thumbnail: '/img/e5831ed6-2e37-4697-8f57-2e55660cc1fe.jpg',
       uploadTime: '1 месяц назад'
     },
     {
@@ -105,7 +105,7 @@ const Index = () => {
       author: 'CookingPro',
       views: '3.1M',
       duration: '14:20',
-      thumbnail: '/img/af9c21ae-cf94-4ed1-9635-5721204810fe.jpg',
+      thumbnail: '/img/d365b4c9-dda0-43e1-8562-1b4df632a370.jpg',
       uploadTime: '3 недели назад'
     },
     {
@@ -114,7 +114,7 @@ const Index = () => {
       author: 'MusicVibes',
       views: '2.7M',
       duration: '45:12',
-      thumbnail: '/img/444f629f-7b7c-464b-b671-afc871241e9a.jpg',
+      thumbnail: '/img/8e5f4f63-94bd-4483-9a7f-4d6d830323f0.jpg',
       uploadTime: '2 месяца назад'
     }
   ];
